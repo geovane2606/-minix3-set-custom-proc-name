@@ -1,0 +1,6 @@
+*.o
+*.out
+*.tar.gz
+test_set_proc_name
+.DS_Store
+Thumbs.db
